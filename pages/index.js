@@ -555,7 +555,7 @@ export default function Home() {
           <thead>
             <tr>
               <th className="border border-gray-300 p-2 font-semibold">अ.क्र</th>
-              <th className="border border-gray-300 p-2 font-semibold">उमेदवाराचे नाव</th>
+              <th className="border border-gray-300 p-2  font-semibold">उमेदवाराचे नाव</th>
               <th className=""></th>
               <th className="border border-gray-300 p-2 font-semibold">चिन्ह</th>
               <th className="border border-gray-300 font-semibold bg-orange-100">बटन</th>
@@ -807,10 +807,10 @@ export default function Home() {
         </table>
       </div>
       <div className="flex justify-between items-center p-4 text-gray-600 text-sm">
-    <span>2024 © <a href="https://shakktii.ai" className="text-blue-500 hover:underline">shakktii.ai</a></span>
+    <span>2024 © <a href="https://Eesweb.in" className="text-blue-500 hover:underline">Eesweb.in</a></span>
     <span className="flex items-center">
         Crafted with <span className="text-red-500 px-1">❤️</span> by 
-        <a href="tel:+918856067217" className="text-blue-500 hover:underline ml-1">+91 8856067217</a>
+        <a href="tel:+919551339292" className="text-blue-500 hover:underline ml-1">+91 9551339292</a>
     </span>
 </div>
 
