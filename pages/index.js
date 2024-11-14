@@ -566,7 +566,7 @@ export default function Home() {
 
             <tr>
               <td className="border-2 border-black p-2 text-center text-xl font-bold">१.</td>
-              <td className="border-2 border-black text-center text-sm font-bold w-65">
+              <td className="border-2 border-black text-center  font-bold w-65">
               श्री.अमित राज ठाकरे.
               </td>
               <td className="border-2 border-black text-center w-16">
