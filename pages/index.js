@@ -807,10 +807,10 @@ export default function Home() {
         </table>
       </div>
       <div className="flex justify-between items-center p-4 text-gray-600 text-sm">
-    <span>2024 © <a href="https://Eesweb.in" className="text-blue-500 hover:underline">Eesweb.in</a></span>
+    <span>2024 © <a href="https://shakktii.in" className="text-blue-500 hover:underline">SHAKKTII.IN</a></span>
     <span className="flex items-center">
         Crafted with <span className="text-red-500 px-1">❤️</span> by 
-        <a href="tel:+919551339292" className="text-blue-500 hover:underline ml-1">+91 9551339292</a>
+        <a href="tel:+919551339292" className="text-blue-500 hover:underline ml-1">+91 8956668867</a>
     </span>
 </div>
 
